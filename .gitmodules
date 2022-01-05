@@ -1,0 +1,4 @@
+[submodule "src/resume"]
+	path = src/resume
+	url = https://github.com/h3xx/resume.git
+	branch = main
